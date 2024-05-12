@@ -1,8 +1,8 @@
 # Virtual Intreviewer & Virtual Conversationalist 1.0.0
 
-###### Note!!!: This web app is still not compatible on all browsers, for now it will only work as expected on Google Chrome and Microsoft Edge.
+###### Note!!!: This web app is still not compatible on all browsers, for now it will only work as expected on **desktop Google Chrome and Microsoft Edge**.
 
-[Live link]() | [Watch demo]()
+[Live link](https://virtual-interviewer-virtual-conversationalist.vercel.app) | [Watch demo]()
 
 ![home page](./public/Gallery/Home.png)
 
@@ -47,12 +47,22 @@ Choose a conversation and read your part. Once you've finished, you can restart 
 
 ![home page](./public/Gallery/Home.png)
 
-![Virtual Conversationalist](./public/Gallery/VI1.png)
+![Virtual Intreviewer](./public/Gallery/VI1.png)
 
-![Virtual Conversationalist](./public/Gallery/VI2.png)
+![Virtual Intreviewer](./public/Gallery/VI2.png)
 
-![Virtual Intreviewer](./public/Gallery/VC1.png)
+![Virtual Conversationalist](./public/Gallery/VC1.png)
 
-![Virtual Intreviewer](./public/Gallery/VC2.png)
+![Virtual Conversationalist](./public/Gallery/VC2.png)
 
 ### Mobile
+
+![home page](./public/Gallery/Homemob.jpg)
+
+![Virtual Intreviewer](./public/Gallery/VI1mob.jpg)
+
+![Virtual Intreviewer](./public/Gallery/VI2mob.jpg)
+
+![Virtual Conversationalist](./public/Gallery/VC1mob.jpg)
+
+![Virtual Conversationalist](./public/Gallery/VC2mob.jpg)

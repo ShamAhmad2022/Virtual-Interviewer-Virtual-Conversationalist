@@ -24,12 +24,12 @@ function ShowNote() {
             <div className="flex-1 w-0 p-4">
               <div className="flex items-start">
                 <div className="ml-3 flex-1">
-                  <p className="text-sm font-medium text-gray-900">
+                  <p className="text-sm font-bold text-gray-900">
                     Important Note:
                   </p>
                   <p className="mt-1 text-sm text-gray-500">
                     This web app is still not compatible on all browsers, for now it
-                    will only work as expected on Google Chrome and Microsoft Edge.
+                    will only work as expected on <span className='font-medium'>desktop Google Chrome and Microsoft Edge.</span>
                   </p>
                 </div>
               </div>
