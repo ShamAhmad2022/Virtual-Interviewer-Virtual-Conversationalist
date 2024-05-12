@@ -1,36 +1,58 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Virtual Intreviewer & Virtual Conversationalist 1.0.0
 
-## Getting Started
+###### Note!!!: This web app is still not compatible on all browsers, for now it will only work as expected on Google Chrome and Microsoft Edge.
 
-First, run the development server:
+[Live link]() | [Watch demo]()
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+![home page](./public/Gallery/Home.png)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+A web app to help you Improve your interview skills and English speaking effortlessly with practice sessions tailored for interviews and conversations
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+# Virtual Intreviewer:
+Choose a position, listen to each question, and then provide your answer. You can change the order of the questions and specify where to start and end
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### Features:
+- multiple positions
+- show intreview questions
+- choose from where to start
+- choose from where to end
+- shuffle questions
+- reset questions
+- change the intreviewer voice (male or female)
+- show or hide your answer
+- restart the intreview
 
-## Learn More
+#### coming Features:
+- let the user add their own positions and questions
+- design improvements
+- use more advanced speech api
 
-To learn more about Next.js, take a look at the following resources:
+# Virtual Conversationalist:
+Choose a conversation and read your part. Once you've finished, you can restart the conversation or select a new one
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Features:
+- multiple conversation topics
+- show the conversation
+- change the conversationalist voice (male or female)
+- restart the conversation
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+#### coming Features:
+- let the user add their conversation
+- design improvements
+- use more advanced speech api
 
-## Deploy on Vercel
+## Screenshots
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Desktop
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![home page](./public/Gallery/Home.png)
+
+![Virtual Conversationalist](./public/Gallery/VI1.png)
+
+![Virtual Conversationalist](./public/Gallery/VI2.png)
+
+![Virtual Intreviewer](./public/Gallery/VC1.png)
+
+![Virtual Intreviewer](./public/Gallery/VC2.png)
+
+### Mobile
