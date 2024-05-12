@@ -3,7 +3,7 @@
 import React, { useEffect } from "react";
 import {
   conversationTopic,
-  introduction,
+  newCoffeeShop,
   favoriteVideoGame,
   bestProgrammingLanguage,
   friendsFansOnly
@@ -16,8 +16,8 @@ import { FaRegLightbulb } from "react-icons/fa6";
 function FirstPage({ setGoNext, convTopic, setConvTopic, SetConversation }) {
   useEffect(() => {
     switch (convTopic) {
-      case "Introduction":
-        SetConversation(introduction);
+      case "New coffee shop":
+        SetConversation(newCoffeeShop);
         break;
       case "Favorite video game":
         SetConversation(favoriteVideoGame);
