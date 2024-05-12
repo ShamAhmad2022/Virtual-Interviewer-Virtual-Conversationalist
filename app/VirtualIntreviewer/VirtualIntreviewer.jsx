@@ -16,7 +16,7 @@ import { FaMicrophoneAlt } from "react-icons/fa";
 
 function VirtualIntreviewer({ setGoNext, position, setPosition, array }) {
   const lastQuestion =
-    "this is the end of the intreview, thank you for your time";
+    "this is the end of the interview, thank you for your time";
 
   const [originalArray, setOriginalArray] = useState(array);
 
