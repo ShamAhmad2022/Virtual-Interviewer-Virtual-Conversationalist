@@ -37,8 +37,9 @@ function Header() {
           <span className="text-[#977244]"> Virtual Conversationalist</span>
         </h1>
         <h2 className="w-[90%] sm:w-[85%] lg:w-[70%] text-[1.5rem]">
-          To help you in <b>practicing</b> for interviews and conversations,
-          with the goal of <b>enhancing</b> your interview skills and English
+          A web app to help you <b>Improve</b> your interview skills and English
+          speaking effortlessly with <b>practice</b> sessions tailored for interviews
+          and conversations.
         </h2>
       </div>
     </motion.header>
