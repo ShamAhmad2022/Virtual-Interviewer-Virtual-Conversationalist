@@ -19,7 +19,7 @@ function AboutCreator() {
           About the creator
         </h3>
         <p className="text-[1.5rem]">
-          I{"'"}m a <span className="font-semibold">Web developer</span> with
+          My name is Sham, I{"'"}m a <span className="font-semibold">Web developer</span> with
           almost 2 years of experience. I build functional, user friendly and
           responsive websites and web applications.
         </p>
